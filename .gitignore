@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environments
+.env
+.env.local
+
+# Build outputs
+.next/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite / Logs / Temp
+*.sqlite
+*.db
+*.log
+*.tmp
+*.cache
+
