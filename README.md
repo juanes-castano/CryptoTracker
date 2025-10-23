@@ -150,6 +150,7 @@ Ejemplo: `/v1/cryptocurrency/listings/latest`
 
 ## 🚀 **Instalación y Ejecución**
 
+
 ### 🔧 Backend
 ```bash
 cd backend
@@ -163,8 +164,14 @@ cd frontend
 npm install
 npm run dev
 ```
+## Configuración del entorno
 
-Luego abre en tu navegador:  
+1. Crea un archivo `.env` en la raíz del proyecto.
+2. Copia el contenido de `.env.example` y reemplaza las variables con tus propios valores.
+3. Ejecuta el proyecto con `npm start` o el comando correspondiente.
+Luego abre en tu navegador:
+
+
 👉 http://localhost:3000
 
 ---
